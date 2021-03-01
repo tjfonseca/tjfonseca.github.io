@@ -8,14 +8,13 @@
 layout: home
 ---
 
-<img src="assets/pictures/dieppe.jpg" width="250" id="hp"/> 
+<img src="assets/pictures/dieppe.jpg" id="hp"/> 
 
 
 Postdoctoral Research Associate at the [Mathematical Institute](https://www.maths.ox.ac.uk/), Oxford.
 
 I work in the area of Arithmetic Geometry. Currently, I am mainly insterested in questions involving periods of algebraic varieties, modular forms, transcendence, and algebraicity.
 
-<br>
 
 <p>tiago.jardimdafonseca at maths.ox.ac.uk</p> 
 
