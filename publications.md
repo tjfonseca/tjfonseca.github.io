@@ -7,7 +7,7 @@ permalink: /publications/
 Click on the paper titles for more details.
 
 <details>
-	<summary><em>Towards algebraic iterated integrals for elliptic curves via the universal vectorial extension (with <a href="http://people.maths.ox.ac.uk/matthes/">Nils Matthes</a>).</em> RIMS Kôkyurôku, No. 2160 (2020), 114-125. [<a href="https://arxiv.org/abs/2009.10433">arXiv</a>] </summary>
+	<summary><em>Towards algebraic iterated integrals for elliptic curves via the universal vectorial extension</em> (with <a href="http://people.maths.ox.ac.uk/matthes/">Nils Matthes</a>). RIMS Kôkyurôku, No. 2160 (2020), 114-125. [<a href="https://arxiv.org/abs/2009.10433">arXiv</a>] </summary>
   
   <p><br>
 	<b>Abstract:</b>  For an elliptic curve $E$ defined over a field $k\subset \mathbb{C}$, we study iterated path integrals of logarithmic differential forms on $E^{\dagger}$, the universal vectorial extension of $E$. These are generalizations of the classical periods and quasi-periods of $E$, and are closely related to multiple elliptic polylogarithms and elliptic multiple zeta values. Moreover, if $k$ is a finite extension of $\mathbb{Q}$, then these iterated integrals along paths between $k$-rational points are periods in the sense of Kontsevich-Zagier. 
