@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<img src="assets/pictures/dieppe.jpg" id="hp"> 
+<img src="assets/pictures/dieppe.jpg" alt="photo" id="hp"> 
 
 
 Postdoctoral Research Associate at the [Mathematical Institute](https://www.maths.ox.ac.uk/), Oxford.
