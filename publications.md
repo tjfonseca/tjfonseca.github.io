@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+I work in the area of Arithmetic Geometry. Currently, I am mainly insterested in questions involving periods of algebraic varieties, modular forms, transcendence, and algebraicity.
+
 <details open>
 	<summary><em>Towards algebraic iterated integrals for elliptic curves via the universal vectorial extension</em> (with <a href="http://people.maths.ox.ac.uk/matthes/">Nils Matthes</a>). RIMS Kôkyurôku, No. 2160 (2020), 114-125. [<a href="https://arxiv.org/abs/2009.10433">arXiv</a>] </summary>
   
