@@ -4,9 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Click on the paper titles for more details.
-
-<details>
+<details open>
 	<summary><em>Towards algebraic iterated integrals for elliptic curves via the universal vectorial extension</em> (with <a href="http://people.maths.ox.ac.uk/matthes/">Nils Matthes</a>). RIMS Kôkyurôku, No. 2160 (2020), 114-125. [<a href="https://arxiv.org/abs/2009.10433">arXiv</a>] </summary>
   
   <p><br>
@@ -18,7 +16,7 @@ Click on the paper titles for more details.
 
 <p></p>
 
-<details>
+<details open>
 	<summary><em>On coefficients of Poincaré series and single-valued periods of modular forms.</em> Res Math Sci 7, 33 (2020). [<a href="https://arxiv.org/abs/1912.02277">arXiv</a>] </summary>
   
   <p><br>
@@ -28,7 +26,7 @@ Click on the paper titles for more details.
 
 <p></p>
 
-<details>
+<details open>
 	<summary><em>A geometric introduction to transcendence questions on values of modular forms.</em> Appendix for the upcoming monograph <em>Modular and Automorphic Forms & beyond</em> by <a href="http://w3.impa.br/~hossein/">Hossein Movasati</a>. [<a href="https://arxiv.org/abs/2011.14401">arXiv</a>] </summary>
   
   <p><br>
@@ -38,7 +36,7 @@ Click on the paper titles for more details.
 
 <p></p>
 
-<details>
+<details open>
 	<summary><em>Higher Ramanujan equations and periods of abelian varieties.</em> To appear in Memoirs of the AMS. [<a href="https://arxiv.org/abs/1807.11044">arXiv</a>] </summary>
   
   <p><br>
@@ -51,7 +49,7 @@ This geometric framework taking account of integrality issues is mainly motivate
   
 <p></p>
   
-<details>
+<details open>
 	<summary><em>Algebraic independence for values of integral curves.</em> Algebra and Number Theory, Vol. 13 (2019), No. 3, 643-694. [<a href="https://arxiv.org/abs/1710.00563">arXiv</a>] </summary>
   
   <p><br>
@@ -61,7 +59,7 @@ This geometric framework taking account of integrality issues is mainly motivate
 
 <p></p>
 
-<details>
+<details open>
 	<summary><em>Courbes intégrales : transcendance et géométrie.</em> PhD thesis, Université Paris-Saclay (2017). [<a href="https://tel.archives-ouvertes.fr/tel-01685449">HAL</a>] </summary>
   
   <p><br>
