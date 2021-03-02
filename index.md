@@ -8,20 +8,16 @@
 layout: home
 ---
 
-<div class="wrapper">
 
-<div id="right-block">
-<p>
-	Postdoctoral Research Associate at the <a href="https://www.maths.ox.ac.uk/">Mathematical Institute</a>, Oxford.
-</p>
+Postdoctoral Research Associate at the <a href="https://www.maths.ox.ac.uk/">Mathematical Institute</a>, Oxford.
 
-<p>
-	I work in the area of Arithmetic Geometry. Currently, I am mainly insterested in questions involving periods of algebraic varieties, modular forms, transcendence, and algebraicity.
-</p>
+I work in the area of Arithmetic Geometry. Currently, I am mainly insterested in questions involving periods of algebraic varieties, modular forms, transcendence, and algebraicity.
 
-<h3>
+A recent <a href="assets/pictures/dieppe.jpg">photo</a>. A less recent <a href="assets/pictures/diploma.png">photo</a>.
+
+<h4>
 	Contact information
-</h3>
+</h4>
 
 <p>
 	<span id="mail">tiago.jardimdafonseca$@$maths.ox.ac.uk</span>
@@ -33,8 +29,7 @@ Andrew Wiles Building <br>
 Radcliffe Observatory Quarter (550) <br>
 Woodstock Road <br>
 Oxford, OX2 6GG <br>
-</div>
 
-<img src="assets/pictures/dieppe.jpg" alt="photo" id="left-block">
-
-</div>
+<h5>
+	Last update: 02/03/2021
+</h5>
