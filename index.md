@@ -35,8 +35,6 @@ Woodstock Road <br>
 Oxford, OX2 6GG <br>
 </div>
 
-<div id="left-block">
-<img src="assets/pictures/dieppe.jpg" alt="photo">
-</div>
+<img src="assets/pictures/dieppe.jpg" alt="photo" id="left-block">
 
 </div>
