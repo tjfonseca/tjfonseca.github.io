@@ -11,7 +11,6 @@ layout: home
 <div class="wrapper">
 
 <div id="right-block">
-
 <p>
 	Postdoctoral Research Associate at the <a href="https://www.maths.ox.ac.uk/">Mathematical Institute</a>, Oxford.
 </p>
@@ -25,7 +24,7 @@ layout: home
 </h3>
 
 <p>
-	tiago.jardimdafonseca at maths.ox.ac.uk
+	<span id="mail">tiago.jardimdafonseca$@$maths.ox.ac.uk</span>
 </p> 
 
 Mathematical Institute <br>
