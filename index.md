@@ -8,6 +8,8 @@
 layout: home
 ---
 
+<div class="wrapper">
+
 <div id="right-block">
 
 <p>
@@ -36,4 +38,6 @@ Oxford, OX2 6GG <br>
 
 <div id="left-block">
 <img src="assets/pictures/dieppe.jpg" alt="photo">
+</div>
+
 </div>
