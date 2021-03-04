@@ -1,9 +1,9 @@
 title: Tiago J. Fonseca
 author:
   name: Tiago J. Fonseca
-  #email: your-email@domain.com
+  email: tjfonseca14@gmail.com
 description:  # > this means to ignore newlines until "show_excerpts:"
-  Mathematical Institute, University of Oxford
+  Postdoctoral Research Associate at the Mathematical Institute, University of Oxford.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,9 +12,9 @@ minima:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
-  #social_links:
-    #twitter: tejotaefe
-    #github:  jekyll
+  social_links:
+    twitter: tejotaefe
+    github:  tjfonseca
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -49,6 +49,7 @@ minima:
 header_pages:
 # - about.md
   - publications.md
+  - teaching.md
 
 # Build settings
 theme: minima
