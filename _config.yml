@@ -55,6 +55,9 @@ header_pages:
 # Build settings
 theme: minima
 
+# Google Analytics
+google_analytics: UA-191465263-1
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
