@@ -11,7 +11,7 @@ layout: home
 
 Postdoctoral Research Associate at the <a href="https://www.maths.ox.ac.uk/">Mathematical Institute</a>, Oxford.
 
-I work in the area of Arithmetic Geometry. Currently, I am mainly insterested in questions involving periods of algebraic varieties, modular forms, transcendence, and algebraicity.
+I work in the area of Arithmetic Geometry. Currently, I am mainly interested in questions involving periods of algebraic varieties, modular forms, transcendence, and algebraicity.
 
 A recent <a href="assets/pictures/dieppe.jpg">photo</a>. A less recent <a href="assets/pictures/diploma.png">photo</a>.
 
