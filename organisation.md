@@ -6,6 +6,8 @@ permalink: /organisation/
 
 <h3>Seminars</h3>
 
+Current:
+
 - Since February 2021, I am helping to organise the <a href="http://w3.impa.br/~hossein/GADEPs/GADEPs.html" target="_blank">GADEPs seminar</a> (Geometry, Arithmetic, and Differential Equations of Periods) hosted at <a href="https://impa.br/" target="_blank">IMPA</a>.
 
 Past:
