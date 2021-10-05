@@ -11,7 +11,7 @@ permalink: /organisation/
 Past:
 
 - I was the Oxford contact for the <a href="https://sites.google.com/site/netandogra/working-seminar" target="_blank">WORKing seminar</a> on Diophantine Geometry.
-- <a href="https://ssorsay.blogspot.com/" target ="_blank"> Les séminaires secrets d'Orsay </a>.
+- <a href="https://ssorsay.blogspot.com/" target ="_blank"> Les séminaires secrets d'Orsay</a>.
 
 <h3>Discord server</h3>
 
