@@ -30,7 +30,7 @@ permalink: /publications/
 <p></p>
 
 <details>
-	<summary><b>A geometric introduction to transcendence questions on values of modular forms.</b> Appendix for the upcoming monograph <em>Modular and Automorphic Forms & beyond</em> by <a href="http://w3.impa.br/~hossein/" target="_blank">Hossein Movasati</a>. [<a href="https://arxiv.org/abs/2011.14401" target="_blank">arXiv</a>] </summary>
+	<summary><b>A geometric introduction to transcendence questions on values of modular forms.</b> In <a href="http://w3.impa.br/~hossein/" target="_blank">H. Movasati</a>, <em>Modular and Automorphic Forms & beyond</em>, Monographs in Number Theory: Volume 9, World Scientific (2021). [<a href="https://arxiv.org/abs/2011.14401" target="_blank">arXiv</a>] </summary>
   
   <p><br>
 	 We survey some key developments in the theory of transcendental numbers, paying special attention to Nesterenko's theorem on values of Eisenstein series and emphasizing its underlying geometric aspects. We finish with a brief discussion on periods and related open problems.
@@ -88,4 +88,4 @@ This geometric framework taking account of integrality issues is mainly motivate
 
 <h4> Coming up </h4>
 
-- <b>The algebraic de Rham fundamental group of the universal elliptic curve</b> (with <a href="http://people.maths.ox.ac.uk/matthes/" target="_blank">Nils Matthes</a>).
+- <b>The unipotent de Rham fundamental group of a punctured elliptic curve via the universal vector extension</b> (with <a href="http://people.maths.ox.ac.uk/matthes/" target="_blank">Nils Matthes</a>).

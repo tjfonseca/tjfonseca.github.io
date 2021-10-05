@@ -9,9 +9,9 @@ layout: home
 ---
 
 
-Postdoctoral Research Associate at the <a href="https://www.maths.ox.ac.uk/">Mathematical Institute</a>, Oxford.
+Researcher at <a href="https://www.ime.unicamp.br/en">IMECC - Unicamp</a>, supported by <a href="https://fapesp.br/en">FAPESP</a> (Young Investigator Grant).
 
-I work in the area of Arithmetic Geometry. Currently, I am mainly interested in questions involving periods of algebraic varieties, modular forms, transcendence, and algebraicity.
+I work in Number Theory and Algebraic Geometry, mainly in questions involving periods of algebraic varieties, modular forms, transcendence, and algebraicity.
 
 A recent <a href="assets/pictures/dieppe.jpg">photo</a>. A less recent <a href="assets/pictures/diploma.png">photo</a>.
 
@@ -20,16 +20,14 @@ A recent <a href="assets/pictures/dieppe.jpg">photo</a>. A less recent <a href="
 </h4>
 
 <p>
-	<span id="mail">tiago.jardimdafonseca$@$maths.ox.ac.uk</span>
+	<span id="mail">tjfonseca$@$ime.unicamp.br</span>
 </p> 
 
-Mathematical Institute <br>
-University of Oxford <br>
-Andrew Wiles Building <br>
-Radcliffe Observatory Quarter (550) <br>
-Woodstock Road <br>
-Oxford, OX2 6GG <br>
+IMECC - Unicamp <br>
+Rua Ségio Buarque de Holanda, 651 Cidade Universitária <br>
+CEP 13083-859 <br>
+Campinas, SP, Brazil <br>
 
 <h5>
-	Last update: 26/04/2021
+	Last update: 05/10/2021
 </h5>

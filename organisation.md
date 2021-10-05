@@ -6,9 +6,12 @@ permalink: /organisation/
 
 <h3>Seminars</h3>
 
-- Since February 2021, I am helping to organise the <a href="http://w3.impa.br/~hossein/GADEPs/GADEPs.html" target="_blank">GADEPs seminar</a> (Geometry, Arithmetic, and Differential Equations of Periods) hosted at <a href="https://impa.br/" target="_blank">IMPA.
+- Since February 2021, I am helping to organise the <a href="http://w3.impa.br/~hossein/GADEPs/GADEPs.html" target="_blank">GADEPs seminar</a> (Geometry, Arithmetic, and Differential Equations of Periods) hosted at <a href="https://impa.br/" target="_blank">IMPA</a>.
 
-- I am currently the Oxford contact for the <a href="https://sites.google.com/site/netandogra/working-seminar" target="_blank">WORKing seminar</a> on Diophantine Geometry.
+Past:
+
+- I was the Oxford contact for the <a href="https://sites.google.com/site/netandogra/working-seminar" target="_blank">WORKing seminar</a> on Diophantine Geometry.
+- <a href="https://ssorsay.blogspot.com/" target ="_blank"> Les séminaires secrets d'Orsay </a>.
 
 <h3>Discord server</h3>
 
