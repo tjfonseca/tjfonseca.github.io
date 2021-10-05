@@ -11,7 +11,7 @@ layout: home
 
 Researcher at <a href="https://www.ime.unicamp.br/en">IMECC - Unicamp</a>, supported by <a href="https://fapesp.br/en">FAPESP</a> (Young Investigator Grant).
 
-I work in Number Theory and Algebraic Geometry, mainly in questions involving periods of algebraic varieties, modular forms, transcendence, and algebraicity.
+I work in the areas of Number Theory and Algebraic Geometry, mainly on questions involving periods of algebraic varieties, modular forms, transcendence, and algebraicity.
 
 A recent <a href="assets/pictures/dieppe.jpg">photo</a>. A less recent <a href="assets/pictures/diploma.png">photo</a>.
 
