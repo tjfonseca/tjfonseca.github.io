@@ -8,7 +8,12 @@ permalink: /publications/
 	<summary><b>A note on the Gauss-Manin connection for abelian schemes</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). Preprint [<a href="https://arxiv.org/abs/2201.06402" target="_blank">arXiv</a>] </summary>
   
   <p><br>
-	For an elliptic curve $E$ defined over a field $k\subset \mathbb{C}$, we study iterated path integrals of logarithmic differential forms on $E^{\dagger}$, the universal vectorial extension of $E$. These are generalizations of the classical periods and quasi-periods of $E$, and are closely related to multiple elliptic polylogarithms and elliptic multiple zeta values. Moreover, if $k$ is a finite extension of $\mathbb{Q}$, then these iterated integrals along paths between $k$-rational points are periods in the sense of Kontsevich-Zagier. 
+	 We provide a new construction of the $D$-group scheme structure on the
+universal vector extension $A^{\natural}$ of an abelian scheme $A$ in
+characteristic zero. In particular, this gives a rather simple description of
+the Gauss-Manin connection on the de Rham cohomology of $A$ in terms of global
+algebraic differential forms on $A^{\natural}$. The key ingredient is Laumon's
+computation of the coherent cohomology of $A^{\natural}$.
 	</p>
 </details>
 
