@@ -8,9 +8,11 @@ permalink: /organisation/
 
 Current:
 
-- Since February 2021, I am helping to organise the <a href="https://sites.google.com/view/gadeps/home" target="_blank">GADEPs seminar</a> (Geometry, Arithmetic, and Differential Equations of Periods) hosted at <a href="https://impa.br/" target="_blank">IMPA</a>.
+- I am currently organising a local seminar on Hodge Theory.
 
 Past:
+
+- I helped to organise the <a href="https://w3.impa.br/~hossein/GADEPs/GADEPs.html" target="_blank">GADEPs seminar</a> (Geometry, Arithmetic, and Differential Equations of Periods) hosted at <a href="https://impa.br/" target="_blank">IMPA</a>.
 
 - I was the Oxford contact for the <a href="https://sites.google.com/site/netandogra/working-seminar" target="_blank">WORKing seminar</a> on Diophantine Geometry.
 - <a href="https://ssorsay.blogspot.com/" target ="_blank"> Les séminaires secrets d'Orsay</a>.

@@ -13,7 +13,7 @@ Researcher at <a href="https://www.ime.unicamp.br/en">IMECC - Unicamp</a>, suppo
 
 I work in the areas of Number Theory and Algebraic Geometry, mainly on questions involving periods of algebraic varieties, modular forms, transcendence, and algebraicity.
 
-A recent <a href="assets/pictures/dieppe.jpg">photo</a>. A less recent <a href="assets/pictures/diploma.png">photo</a>.
+A recent <a href="assets/pictures/dieppe.jpg">photo</a>. A less recent <a href="assets/pictures/diploma.png">photo</a>. A <a href="./cv-en.pdf">CV</a>.
 
 <h4>
 	Contact information
@@ -29,5 +29,5 @@ CEP 13083-859 <br>
 Campinas, SP, Brazil <br>
 
 <h5>
-	Last update: 19/01/2022
+	Last update: 28/04/2022
 </h5>

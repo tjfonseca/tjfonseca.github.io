@@ -8,12 +8,7 @@ permalink: /publications/
 	<summary><b>A note on the Gauss-Manin connection for abelian schemes</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). Preprint [<a href="https://arxiv.org/abs/2201.06402" target="_blank">arXiv</a>] </summary>
   
   <p><br>
-	 We provide a new construction of the $D$-group scheme structure on the
-universal vector extension $A^{\natural}$ of an abelian scheme $A$ in
-characteristic zero. In particular, this gives a rather simple description of
-the Gauss-Manin connection on the de Rham cohomology of $A$ in terms of global
-algebraic differential forms on $A^{\natural}$. The key ingredient is Laumon's
-computation of the coherent cohomology of $A^{\natural}$.
+	 We study differential forms on the universal vector extension $A^{\natural}$ of an abelian scheme $A$ in characteristic zero, and derive a new construction of the D-group scheme structure on $A^{\natural}$. This gives, in particular, a rather simple description of the Gauss-Manin connection on the de Rham cohomology of $A$ in terms of global algebraic differential forms on $A^{\natural}$. The key ingredient is the computation of the coherent cohomology of $A^{\natural}$, due to Coleman and Laumon.
 	</p>
 </details>
 
