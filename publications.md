@@ -16,7 +16,7 @@ permalink: /publications/
 
 
 <details>
-	<summary><b>Towards algebraic iterated integrals for elliptic curves via the universal vectorial extension</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). <a href="http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2160.html" target="_blank">RIMS Kôkyurôku, No. 2160 (2020), 114-125</a>. [<a href="https://arxiv.org/abs/2009.10433" target="_blank">arXiv</a>] </summary>
+	<summary><b>Towards algebraic iterated integrals for elliptic curves via the universal vectorial extension</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). <a href="https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/261373" target="_blank">RIMS Kôkyurôku, No. 2160 (2020), 114-125</a>. [<a href="https://arxiv.org/abs/2009.10433" target="_blank">arXiv</a>] </summary>
   
   <p><br>
 	For an elliptic curve $E$ defined over a field $k\subset \mathbb{C}$, we study iterated path integrals of logarithmic differential forms on $E^{\dagger}$, the universal vectorial extension of $E$. These are generalizations of the classical periods and quasi-periods of $E$, and are closely related to multiple elliptic polylogarithms and elliptic multiple zeta values. Moreover, if $k$ is a finite extension of $\mathbb{Q}$, then these iterated integrals along paths between $k$-rational points are periods in the sense of Kontsevich-Zagier. 
