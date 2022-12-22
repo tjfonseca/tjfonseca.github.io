@@ -1,9 +1,9 @@
 title: Tiago J. Fonseca
 author:
-  name: Tiago J. Fonseca
-  email: tjfonseca14@gmail.com
-description:  # > this means to ignore newlines until "show_excerpts:"
-  IMECC - Unicamp
+  #name: Tiago Jardim da Fonseca
+  #email: tjfonseca14@gmail.com
+#description:  # > this means to ignore newlines until "show_excerpts:"
+  IMECC-Unicamp
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,9 +12,9 @@ minima:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
-  social_links:
-    twitter: tejotaefe
-    github:  tjfonseca
+  #social_links:
+    #twitter: tejotaefe
+    #github:  tjfonseca
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -50,7 +50,7 @@ header_pages:
 # - about.md
   - publications.md
   - teaching.md
-  - organisation.md
+  - seminars.md
 
 # Build settings
 theme: minima
