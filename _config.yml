@@ -1,8 +1,8 @@
 title: Tiago J. Fonseca
 author:
-  #name: Tiago Jardim da Fonseca
-  #email: tjfonseca14@gmail.com
-#description:  # > this means to ignore newlines until "show_excerpts:"
+  name: Tiago Jardim da Fonseca
+  #email: 
+description:  # > this means to ignore newlines until "show_excerpts:"
   IMECC-Unicamp
 show_excerpts: false # set to true to show excerpts on the homepage
 
