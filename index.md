@@ -25,7 +25,7 @@ A recent <a href="assets/pictures/dieppe.jpg">photo</a>. A less recent <a href="
 
 IMECC-Unicamp <br>
 Departamento de matemática <br>
-Rua Ségio Buarque de Holanda, 651 Cidade Universitária <br>
+Rua Sérgio Buarque de Holanda, 651, Cidade Universitária <br>
 13083-859 Campinas-SP, Brazil <br>
 
 <h5>
