@@ -5,22 +5,26 @@ permalink: /publications/
 ---
 
 <details open>
-	<summary><b>Elliptic KZB connections via universal vector extensions</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). Preprint available upon request. </summary>
-  
-  <p><br>
-	Let $S$ be a scheme of characteristic zero, $E \to S$ be an elliptic curve over $S$, $f:E^{\natural} \to S$ be its universal vector extension, and $\pi:E^{\natural} \to E$ be the natural projection. Given a finite subset of torsion sections $Z\subset E(S)$, we study the dg-algebra over $\mathcal{O}_S$ of relative logarithmic differentials $\mathcal{A} = f_*\Omega^{\bullet}_{E^{\natural}/S}(\log \pi^{-1}Z)$. In particular, we prove that the residue exact sequence in degree one splits canonically, and we derive the formality of $\mathcal{A}$. When $S$ is smooth over a field of characteristic zero $k$, we prove that sections of $\mathcal{A}^1$ admit canonical lifts to absolute logarithmic differentials in $f_*\Omega^1_{E^{\natural}/k}(\log \pi^{-1}Z)$. This extends a well known property for regular differentials given by the 'crystalline nature' of universal vector extensions.</p>
+	<summary><b>Elliptic KZB connections via universal vector extensions</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). Preprint. [<a href="https://arxiv.org/abs/2301.12560" target="_blank">arXiv</a>] </summary>
+
+	<p><br>
+  	[<a href="https://www.newton.ac.uk/seminar/36062/" target="_blank">Talk</a>, <a href="../assets/documents/slides-kzb.pdf" target="_blank">slides</a>]
+  	</p>
 	
-  <p>
-  Using the formalism of bar complexes and their relative versions, we apply the above results to give a new, purely algebraic, construction of the so-called universal elliptic KZB connection in arbitrary level. We compute explicit analytic formulae, and we compare our results with previous approaches to elliptic KZB equations and multiple elliptic polylogarithms in the literature.
+	 <p align="justify">
+	 Let $S$ be a scheme of characteristic zero, $E \to S$ be an elliptic curve, $f:E^{\natural} \to S$ be its universal vector extension, and $\pi:E^{\natural} \to E$ be the natural projection. Given a finite subset of torsion sections $Z\subset E(S)$, we study the dg-algebra over $\mathcal{O}_S$ of relative logarithmic differentials $\mathcal{A} = f_*\Omega^{\bullet}_{E^{\natural}/S}(\log \pi^{-1}Z)$. In particular, we prove that the residue exact sequence in degree one splits canonically, and we derive the formality of $\mathcal{A}$. When $S$ is smooth over a field $k$ of characteristic zero, we prove that sections of $\mathcal{A}^1$ admit canonical lifts to absolute logarithmic differentials in $f_*\Omega^1_{E^{\natural}/k}(\log \pi^{-1}Z)$. This extends a well known property for regular differentials given by the 'crystalline nature' of universal vector extensions.
+	 </p>
+	 <p align="justify">
+    	 Using the formalism of bar complexes and their relative versions, we apply the above results to give a new, purely algebraic, construction of the so-called <i>universal elliptic KZB connection</i> in arbitrary level. We compute explicit analytic formulae, and we compare our results with previous approaches to elliptic KZB equations and multiple elliptic polylogarithms in the literature.
 	</p>
 </details>
 
 <p></p>
 
-<details>
-	<summary><b>A note on the Gauss-Manin connection for abelian schemes</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). To appear in <a href="https://ems.press/journals/rsmup" target="_blank">Rend. Semin. Mat. Univ. Padova</a>. [<a href="https://arxiv.org/abs/2201.06402" target="_blank">arXiv</a>] </summary>
+<details open>
+	<summary><b>A note on the Gauss-Manin connection for abelian schemes</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). To appear in <a href="http://rendiconti.math.unipd.it/forthcoming.php?lan=english" target="_blank">Rend. Semin. Mat. Univ. Padova</a>. [<a href="https://arxiv.org/abs/2201.06402" target="_blank">arXiv</a>] </summary>
   
-  <p><br>
+  <p align="justify"><br>
 	 We study differential forms on the universal vector extension $A^{\natural}$ of an abelian scheme $A$ in characteristic zero, and derive a new construction of the D-group scheme structure on $A^{\natural}$. This gives, in particular, a rather simple description of the Gauss-Manin connection on the de Rham cohomology of $A$ in terms of global algebraic differential forms on $A^{\natural}$. The key ingredient is the computation of the coherent cohomology of $A^{\natural}$, due to Coleman and Laumon.
 	</p>
 </details>
@@ -28,52 +32,52 @@ permalink: /publications/
 <p></p>
 
 
-<details>
+<details open>
 	<summary><b>Towards algebraic iterated integrals for elliptic curves via the universal vectorial extension</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). <a href="https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/261373" target="_blank">RIMS Kôkyurôku, No. 2160 (2020), 114-125</a>. [<a href="https://arxiv.org/abs/2009.10433" target="_blank">arXiv</a>] </summary>
   
-  <p><br>
+  <p align="justify"><br>
 	For an elliptic curve $E$ defined over a field $k\subset \mathbb{C}$, we study iterated path integrals of logarithmic differential forms on $E^{\dagger}$, the universal vectorial extension of $E$. These are generalizations of the classical periods and quasi-periods of $E$, and are closely related to multiple elliptic polylogarithms and elliptic multiple zeta values. Moreover, if $k$ is a finite extension of $\mathbb{Q}$, then these iterated integrals along paths between $k$-rational points are periods in the sense of Kontsevich-Zagier. 
 	</p>
 </details>
 
 <p></p>
 
-<details>
+<details open>
 	<summary><b>On coefficients of Poincaré series and single-valued periods of modular forms.</b> <a href="https://link.springer.com/article/10.1007/s40687-020-00232-5" target="_blank">Res Math Sci 7, 33 (2020)</a>. [<a href="https://arxiv.org/abs/1912.02277" target="_blank">arXiv</a>] </summary>
   
   <p><br>
   [<a href="https://www.youtube.com/watch?v=M7YyhTXdjd0&t=2s" target="_blank">Talk</a>, <a href="../assets/documents/slides-poincare.pdf" target="_blank">slides</a>]
   </p>
   
-  <p>
+  <p align="justify">
 	We prove that the field generated by the Fourier coefficients of weakly holomorphic Poincaré series of a given level $\Gamma_0(N)$ and weight $k\ge 2$ coincides with the field generated by the single-valued periods of a certain motive attached to $\Gamma_0(N)$. This clarifies the arithmetic nature of such Fourier coefficients and generalises previous formulas of Brown and Acres-Broadhurst giving explicit series expansions for the single-valued periods of some modular forms. Our proof is based on Bringmann-Ono's construction of harmonic lifts of Poincaré series.
 	</p>
 </details>
 
 <p></p>
 
-<details>
-	<summary><b>A geometric introduction to transcendence questions on values of modular forms.</b> In <a href="http://w3.impa.br/~hossein/" target="_blank">H. Movasati</a>, <em>Modular and Automorphic Forms & beyond</em>, Monographs in Number Theory: Volume 9, World Scientific (2021). [<a href="https://arxiv.org/abs/2011.14401" target="_blank">arXiv</a>] </summary>
+<details open>
+	<summary><b>A geometric introduction to transcendence questions on values of modular forms.</b> Appendix of <a href="http://w3.impa.br/~hossein/" target="_blank">H. Movasati</a>, <a href="https://www.worldscientific.com/worldscibooks/10.1142/12325#t=aboutBook" target="_blank"><em>Modular and Automorphic Forms & beyond</em>, Monographs in Number Theory: Volume 9, World Scientific (2021)</a>. [<a href="https://arxiv.org/abs/2011.14401" target="_blank">arXiv</a>] </summary>
   
-  <p><br>
+  <p align="justify"><br>
 	 We survey some key developments in the theory of transcendental numbers, paying special attention to Nesterenko's theorem on values of Eisenstein series and emphasizing its underlying geometric aspects. We finish with a brief discussion on periods and related open problems.
 	</p>
 </details>
 
 <p></p>
 
-<details>
-	<summary><b>Higher Ramanujan equations and periods of abelian varieties.</b> To appear in <a href="https://www.ams.org/publications/ebooks/memoirs" target="_blank">Memoirs of the AMS</a>. [<a href="https://arxiv.org/abs/1807.11044" target="_blank">arXiv</a>] </summary>
+<details open>
+	<summary><b>Higher Ramanujan equations and periods of abelian varieties.</b> <a href="http://www.ams.org/books/memo/1391/" target="_blank">Mem. Amer. Math. Soc. 281 (2023), no. 1391</a>. [<a href="https://arxiv.org/abs/1807.11044" target="_blank">arXiv</a>] </summary>
   
   
 	<p><br>
 	[<a href="https://www.youtube.com/watch?v=fa07Sned31c&t=3s" target="_blank">Talk 1</a>, <a href="../assets/documents/slides-ramanujan1.pdf" target="_blank">slides</a>]  [<a href="https://www.youtube.com/watch?v=foRiR7j17wA" target="_blank">Talk 2</a>, <a href="../assets/documents/slides-ramanujan2.pdf" target="_blank">slides</a>]
 	</p>
   
-  <p>
+  <p align="justify">
 	We describe higher dimensional generalizations of Ramanujan's classical differential relations satisfied by the Eisenstein series $E_2$, $E_4$, $E_6$. Such "higher Ramanujan equations" are given geometrically in terms of vector fields living on certain moduli stacks classifying abelian schemes equipped with suitable frames of their first de Rham cohomology. These vector fields are canonically constructed by means of the Gauss-Manin connection and the Kodaira-Spencer isomorphism. Using Mumford's theory of degenerating families of abelian varieties, we construct remarkable solutions of these differential equations generalizing ($E_2,E_4,E_6$), which are also shown to be defined over $\mathbb{Z}$.
 	</p>
-	<p>
+	<p align="justify">
 This geometric framework taking account of integrality issues is mainly motivated by questions in Transcendental Number Theory regarding an extension of Nesterenko's celebrated theorem on the algebraic independence of values of Eisenstein series. In this direction, we discuss the precise relation between periods of abelian varieties and the values of the above referred solutions of the higher Ramanujan equations, thereby linking the study of such differential equations to Grothendieck's Period Conjecture. Working in the complex analytic category, we prove "functional" transcendence results, such as the Zariski-density of every leaf of the holomorphic foliation induced by the higher Ramanujan equations. 
 	</p>
 	
@@ -81,30 +85,30 @@ This geometric framework taking account of integrality issues is mainly motivate
   
 <p></p>
   
-<details>
+<details open>
 	<summary><b>Algebraic independence for values of integral curves.</b> <a href="https://msp.org/ant/2019/13-3/p03.xhtml" target="_blank">Algebra and Number Theory, Vol. 13 (2019), No. 3, 643-694.</a> [<a href="https://arxiv.org/abs/1710.00563" target="_blank">arXiv</a>] </summary>
   
-  <p><br>
+  <p align="justify"><br>
 	We prove a transcendence theorem concerning values of holomorphic maps from a disk to a quasi-projective variety over $\overline{\mathbb{Q}}$ that are integral curves of some algebraic vector field (defined over $\overline{\mathbb{Q}}$). These maps are required to satisfy some integrality property, besides a growth condition and a strong form of Zariski-density that are natural for integral curves of algebraic vector fields. This result generalizes a theorem of Nesterenko concerning algebraic independence of values of the Eisenstein series $E_2$, $E_4$, $E_6$. The main technical improvement in our approach is the replacement of a rather restrictive hypothesis of polynomial growth on Taylor coefficients by a geometric notion of moderate growth formulated in terms of Value Distribution Theory.
 	</p>
 </details>
 
 <p></p>
 
-<details>
-	<summary><b>Courbes intégrales : transcendance et géométrie.</b> PhD thesis, Université Paris-Saclay (2017). [<a href="https://tel.archives-ouvertes.fr/tel-01685449" target="_blank">HAL</a>] </summary>
+<details open>
+	<summary><b>Courbes intégrales : transcendance et géométrie.</b> PhD thesis, Université Paris-Saclay (December 2017). [<a href="https://tel.archives-ouvertes.fr/tel-01685449" target="_blank">HAL</a>] </summary>
   
   <p><br>
   [<a href="../assets/documents/slides-soutenance.pdf" target="_blank">Defense slides</a>]
   </p>
   
-  <p>
+  <p align="justify">
 	This thesis is devoted to the study of some questions motivated by Nesterenko's theorem on the algebraic independence of values of Eisenstein series $E_2$, $E_4$, $E_6$. It is divided in two parts. 
 	</p>
-	<p>
+	<p align="justify">
 	In the first part, comprising the first two chapiters, we generalize the algebraic differential equations satisfied by Eisenstein series that lie in the heart of Nesterenko's method, the Ramanujan equations. These generalizations, called 'higher Ramanujan equations', are obtained geometrically from vector fields naturally defined on certain moduli spaces of abelian varieties. In order to justify the interest of the higher Ramanujan equations in Transcendence Theory, we also show that values of a remarkable particular solution of these equations are related to 'periods' of abelian varieties.
 	</p>
-	<p>
+	<p align="justify">
 	In the second part (third chapter), we study Nesterenko's method per se. We establish a geometric statement, containing the theorem of Nesterenko, on the transcendence of values of holomorphic maps from a disk to a quasi-projective variety over $\overline{\mathbb{Q}}$ defined as integral curves of some vector field. These maps are required to satisfy some integrality property, besides a growth condition and a strong form of Zariski-density that are natural for integral curves of algebraic vector fields. 
 	</p>
 </details>

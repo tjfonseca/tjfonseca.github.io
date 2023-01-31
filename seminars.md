@@ -6,9 +6,10 @@ permalink: /organisation/
 
 Current:
 
-- I am currently organising a local seminar on Hodge Theory.
 
 Past:
+
+- Hodge Theory seminar (2022), IMECC-Unicamp, Campinas.
 
 - I helped to organise the <a href="https://w3.impa.br/~hossein/GADEPs/GADEPs.html" target="_blank">GADEPs seminar</a> (Geometry, Arithmetic, and Differential Equations of Periods) hosted at <a href="https://impa.br/" target="_blank">IMPA</a>.
 

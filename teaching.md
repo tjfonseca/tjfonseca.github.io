@@ -6,6 +6,8 @@ permalink: /teaching/
 
 Teaching material from some past courses:
 
+- [Diferenciais em anéis comutativos](/teaching/icmc/), Verão 2023, ICMC-USP, São Carlos.
+
 - [Introduction to Hodge Theory](https://nilsmatthes.github.io/Hodge21.html) (with Nils Matthes), Trinity term 2021, Oxford.
 
 - [A crash course on modular forms and cohomology](/teaching/crash-course/), 2020 LMS mini-course, Oxford.
