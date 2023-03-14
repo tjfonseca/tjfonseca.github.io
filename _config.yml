@@ -13,7 +13,7 @@ minima:
 
   # generate social links in footer
   #social_links:
-    #twitter: tejotaefe
+    #twitter: 
     #github:  tjfonseca
     # devto: jekyll
     # dribbble: jekyll
@@ -51,6 +51,7 @@ header_pages:
   - publications.md
   - teaching.md
   - seminars.md
+  - periods.md
 
 # Build settings
 theme: minima
