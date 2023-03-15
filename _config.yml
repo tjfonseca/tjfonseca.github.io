@@ -51,7 +51,7 @@ header_pages:
   - publications.md
   - teaching.md
   - seminars.md
-  - periods.md
+#  - periods.md
 
 # Build settings
 theme: minima
