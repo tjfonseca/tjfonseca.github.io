@@ -13,7 +13,7 @@ Assistant professor at <a href="https://www.ime.unicamp.br/en">IMECC - Unicamp</
 
 I work in the areas of Number Theory and Algebraic Geometry, mainly on questions involving periods of algebraic varieties and their differential equations, modular forms, transcendence, and algebraicity.
 
-A recent <a href="assets/pictures/dieppe.jpg">photo</a>. A less recent <a href="assets/pictures/diploma.png">photo</a>. My <a href="http://lattes.cnpq.br/6649828487224147">CV Lattes</a> (in Portuguese).
+A recent <a href="assets/pictures/dieppe.jpg">photo</a>. A less recent <a href="assets/pictures/diploma.png">photo</a>. My <a href="http://lattes.cnpq.br/6649828487224147">Lattes CV</a> (in Portuguese).
 
 <h4>
 	Contact information

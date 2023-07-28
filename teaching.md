@@ -4,6 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+- [Introdução à topologia algébrica](/teaching/topalg), 2023s2, IMECC-Unicamp, Campinas.
+
 Teaching material from some past courses:
 
 - [Diferenciais em anéis comutativos](/teaching/icmc/), Verão 2023, ICMC-USP, São Carlos.
