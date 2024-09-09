@@ -50,7 +50,7 @@ header_pages:
 # - about.md
   - publications.md
   - teaching.md
-  - seminars.md
+#  - seminars.md
 #  - periods.md
 
 # Build settings

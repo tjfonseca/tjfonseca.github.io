@@ -5,24 +5,26 @@ permalink: /publications/
 ---
 
 <details open>
-	<summary><b>Elliptic KZB connections via universal vector extensions</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). Preprint. [<a href="https://arxiv.org/abs/2301.12560" target="_blank">arXiv</a>] </summary>
+	<summary><b>Elliptic KZB connections via universal vector extensions</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). To appear in <a href="https://msp.org/soon/coming.php?jpath=ant" target="_blank">Algebra & Number Theory</a>. [<a href="https://arxiv.org/abs/2301.12560" target="_blank">arXiv</a>] </summary>
 
 	<p><br>
   	[<a href="https://www.newton.ac.uk/seminar/36062/" target="_blank">Talk</a>, <a href="../assets/documents/slides-kzb.pdf" target="_blank">slides</a>]
   	</p>
+
+	<p align="justify">
+    	 Using the formalism of bar complexes and their relative versions,we give a new, purely algebraic, construction of the so-called universal elliptic KZB connection in arbitrary level. We compute explicit analytic formulae, and we compare our results with previous approaches to elliptic KZB equations and multiple elliptic polylogarithms in the literature.
+	</p>
 	
 	 <p align="justify">
-	 Let $S$ be a scheme of characteristic zero, $E \to S$ be an elliptic curve, $f:E^{\natural} \to S$ be its universal vector extension, and $\pi:E^{\natural} \to E$ be the natural projection. Given a finite subset of torsion sections $Z\subset E(S)$, we study the dg-algebra over $\mathcal{O}_S$ of relative logarithmic differentials $\mathcal{A} = f_*\Omega^{\bullet}_{E^{\natural}/S}(\log \pi^{-1}Z)$. In particular, we prove that the residue exact sequence in degree one splits canonically, and we derive the formality of $\mathcal{A}$. When $S$ is smooth over a field $k$ of characteristic zero, we prove that sections of $\mathcal{A}^1$ admit canonical lifts to absolute logarithmic differentials in $f_*\Omega^1_{E^{\natural}/k}(\log \pi^{-1}Z)$. This extends a well known property for regular differentials given by the 'crystalline nature' of universal vector extensions.
+	  Our approach is based on a number of results concerning logarithmic differential forms on universal vector extensions of elliptic curves. Let $S$ be a scheme of characteristic zero, $E \to S$ be an elliptic curve, $f:E^{\natural} \to S$ be its universal vector extension, and $\pi:E^{\natural} \to E$ be the natural projection. Given a finite subset of torsion sections $Z\subset E(S)$, we study the dg-algebra over $\mathcal{O}_S$ of relative logarithmic differentials $\mathcal{A} = f_*\Omega^{\bullet}_{E^{\natural}/S}(\log \pi^{-1}Z)$. In particular, we prove that the residue exact sequence in degree one splits canonically, and we derive the formality of $\mathcal{A}$. When $S$ is smooth over a field $k$ of characteristic zero, we prove that sections of $\mathcal{A}^1$ admit canonical lifts to absolute logarithmic differentials in $f_*\Omega^1_{E^{\natural}/k}(\log \pi^{-1}Z)$. This extends a well known property for regular differentials given by the 'crystalline nature' of universal vector extensions.
 	 </p>
-	 <p align="justify">
-    	 Using the formalism of bar complexes and their relative versions, we apply the above results to give a new, purely algebraic, construction of the so-called <i>universal elliptic KZB connection</i> in arbitrary level. We compute explicit analytic formulae, and we compare our results with previous approaches to elliptic KZB equations and multiple elliptic polylogarithms in the literature.
-	</p>
+	 
 </details>
 
 <p></p>
 
 <details open>
-	<summary><b>A note on the Gauss-Manin connection for abelian schemes</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). To appear in <a href="http://rendiconti.math.unipd.it/forthcoming.php?lan=english" target="_blank">Rend. Semin. Mat. Univ. Padova</a>. [<a href="https://arxiv.org/abs/2201.06402" target="_blank">arXiv</a>] </summary>
+	<summary><b>A note on the Gauss-Manin connection for abelian schemes</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). <a href="https://ems.press/journals/rsmup/articles/14297620" target="_blank">Rend. Sem. Mat. Univ. Padova 152 (2024), pp. 117–131.</a> [<a href="https://arxiv.org/abs/2201.06402" target="_blank">arXiv</a>] </summary>
   
   <p align="justify"><br>
 	 We study differential forms on the universal vector extension $A^{\natural}$ of an abelian scheme $A$ in characteristic zero, and derive a new construction of the D-group scheme structure on $A^{\natural}$. This gives, in particular, a rather simple description of the Gauss-Manin connection on the de Rham cohomology of $A$ in terms of global algebraic differential forms on $A^{\natural}$. The key ingredient is the computation of the coherent cohomology of $A^{\natural}$, due to Coleman and Laumon.
