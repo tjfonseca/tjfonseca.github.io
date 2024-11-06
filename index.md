@@ -18,6 +18,21 @@ I work in the areas of Number Theory and Algebraic Geometry, mainly on questions
 A recent <a href="assets/pictures/dieppe.jpg" target="_blank">photo</a>. A less recent <a href="assets/pictures/diploma.png" target="_blank">photo</a>. My <a href="http://lattes.cnpq.br/6649828487224147" target="_blank">Lattes CV</a> (in Portuguese).
 
 <h4>
+	SemEAr
+</h4>
+
+<p>
+
+<img src="semear.jpeg" alt="SemEAr" width="400">
+
+</p>
+
+<p>
+I'm helping to organise the first <i>Semana de Encontros Aritméticos</i>, which will happen in Rio Preto-SP from 24 to 26 February 2025. More information and registration on the <a href="https://sites.google.com/ufg.br/isemear/" target="_blank">link</a>.
+</p>
+
+
+<h4>
 	Contact information
 </h4>
 
@@ -31,5 +46,5 @@ Rua Sérgio Buarque de Holanda, 651, Cidade Universitária <br>
 13083-859 Campinas-SP, Brazil <br>
 
 <h5>
-	Last update: 08/09/2024
+	Last update: 06/11/2024
 </h5>
