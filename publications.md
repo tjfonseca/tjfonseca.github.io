@@ -5,7 +5,22 @@ permalink: /publications/
 ---
 
 <details open>
-	<summary><b>Elliptic KZB connections via universal vector extensions</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). To appear in <a href="https://msp.org/soon/coming.php?jpath=ant" target="_blank">Algebra & Number Theory</a>. [<a href="https://arxiv.org/abs/2301.12560" target="_blank">arXiv</a>] </summary>
+	<summary><b>Single-valued periods of meromorphic modular forms and a motivic interpretation of the Gross-Zagier conjecture</b> (with <a href="https://www.maths.ox.ac.uk/people/francis.brown" target="_blank">Francis Brown</a>). Preprint. [<a href="https://arxiv.org/abs/2508.04844" target="_blank">arXiv</a>] </summary>
+
+	<p align="justify"><br>
+	A well-known conjecture of Gross and Zagier states that the values of the higher automorphic Green's function at pairs of points with complex multiplication in the upper half-plane are proportional to the logarithm of an algebraic number. It was recently settled in the case of congruence subgroups of the form $\Gamma_0(N)$ by analytic methods. In this paper we provide a geometric and motivic interpretation of the general conjecture, and show that it is a consequence of a standard conjecture in the theory of motives. In addition, we define a new class of matrix-valued higher Green's functions for both odd and even weight modular forms, and show that they are single-valued periods of a motive constructed from a suitable moduli stack of elliptic curves with marked points. The motive has the structure of a biextension involving symmetric powers of the motives of elliptic curves. This suggests a very general extension of the Gross-Zagier conjecture relating values of matrix-valued higher Green's functions at points which do not necessarily have complex multiplication to special values of $L$-functions. In particular, our motivic interpretation of the Gross-Zagier log-algebraicity conjecture enables us to give a completely geometric proof in level 1 and weight 4 by showing that the motive of the moduli stack $\mathcal{M}_{1,3}$ of elliptic curves with 3 marked points is mixed Tate.
+	</p>
+	
+	 <p align="justify">
+	 In the course of this paper we develop many new foundational results on: the theory of weak harmonic lifts, meromorphic modular forms, biextensions of modular motives, and their corresponding algebraic de Rham cohomology and single-valued periods, which may all be of independent interest.
+	 </p>
+	 
+</details>
+
+<p></p>
+
+<details open>
+	<summary><b>Elliptic KZB connections via universal vector extensions</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). <a href="https://msp.org/ant/2025/19-7/p03.xhtml" target="_blank">Algebra and Number Theory, Vol. 19 (2025), No. 7, 1369–1425.</a> [<a href="https://arxiv.org/abs/2301.12560" target="_blank">arXiv</a>] </summary>
 
 	<p><br>
   	[<a href="https://www.newton.ac.uk/seminar/36062/" target="_blank">Talk</a>, <a href="../assets/documents/slides-kzb.pdf" target="_blank">slides</a>]
