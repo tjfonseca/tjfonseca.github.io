@@ -18,17 +18,17 @@ I did my PhD at the <a href="https://www.imo.universite-paris-saclay.fr/fr/" tar
 A recent <a href="assets/pictures/dieppe.jpg" target="_blank">photo</a>. A less recent <a href="assets/pictures/diploma.png" target="_blank">photo</a>. My <a href="http://lattes.cnpq.br/6649828487224147" target="_blank">Lattes CV</a> (in Portuguese).
 
 <h4>
-	SemEAr
+	II SemEAr
 </h4>
 
 <p>
 
-<img src="semear.jpeg" alt="SemEAr" width="400">
+<img src="iisemear.png" alt="SemEAr" width="400">
 
 </p>
 
 <p>
-I helped to organise the first <i>Semana de Encontros Aritméticos</i>, which took place in Rio Preto-SP from 24 to 26 February 2025.  <a href="https://sites.google.com/ufg.br/isemear/" target="_blank">More information.</a> .
+The second <i>Semana de Encontros Aritméticos</i> will take place in Campinas-SP from 24 to 27 February 2026. <a href="https://sites.google.com/ufg.br/iisemear/" target="_blank">More information.</a>
 </p>
 
 
@@ -46,5 +46,5 @@ Rua Sérgio Buarque de Holanda, 651, Cidade Universitária <br>
 13083-859 Campinas-SP, Brazil <br>
 
 <h5>
-	Last update: 08/08/2025
+	Last update: 05/12/2025
 </h5>
