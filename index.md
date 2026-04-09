@@ -9,7 +9,7 @@ layout: home
 ---
 
 
-Assistant professor at <a href="https://www.ime.unicamp.br/en" target="_blank">IMECC - Unicamp</a>, currently supported by a <a href="https://bv.fapesp.br/en/auxilios/108313/periods-and-algebraicity/" target="_blank">FAPESP Young Investigator Grant</a>. I am part of IMECC's <a href="https://geotop.ime.unicamp.br/" target="_blank">Geometry and Topology (GeoTop)</a> research group.
+Assistant professor at <a href="https://www.ime.unicamp.br/en" target="_blank">IMECC--Unicamp</a>, currently supported by a <a href="https://bv.fapesp.br/en/auxilios/108313/periods-and-algebraicity/" target="_blank">FAPESP Young Investigator Grant</a>. I am a member of IMECC's <a href="https://geotop.ime.unicamp.br/" target="_blank">Geometry and Topology (GeoTop)</a> research group, and of the <a href="https://www.cbg.ime.unicamp.br/en/cbg-homepage-english/" target="_blank">Brazilian Center for Geometry (CBG)</a>. 
 
 I work in the areas of Number Theory and Algebraic Geometry, mainly on questions involving periods of algebraic varieties and their differential equations, modular forms, transcendence, and algebraicity.
 
@@ -17,6 +17,7 @@ I did my PhD at the <a href="https://www.imo.universite-paris-saclay.fr/fr/" tar
 
 A recent <a href="assets/pictures/dieppe.jpg" target="_blank">photo</a>. A less recent <a href="assets/pictures/diploma.png" target="_blank">photo</a>. My <a href="http://lattes.cnpq.br/6649828487224147" target="_blank">Lattes CV</a> (in Portuguese).
 
+<!--
 <h4>
 	II SemEAr
 </h4>
@@ -30,6 +31,7 @@ A recent <a href="assets/pictures/dieppe.jpg" target="_blank">photo</a>. A less 
 <p>
 The second <i>Semana de Encontros Aritméticos</i> will take place in Campinas-SP from 24 to 27 February 2026. <a href="https://sites.google.com/ufg.br/iisemear/" target="_blank">More information.</a>
 </p>
+-->
 
 
 <h4>
@@ -46,5 +48,5 @@ Rua Sérgio Buarque de Holanda, 651, Cidade Universitária <br>
 13083-859 Campinas-SP, Brazil <br>
 
 <h5>
-	Last update: 05/12/2025
+	Last update: 09/04/2026
 </h5>
