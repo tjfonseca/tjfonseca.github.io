@@ -9,7 +9,7 @@ layout: home
 ---
 
 
-Assistant professor at <a href="https://www.ime.unicamp.br/en" target="_blank">IMECC--Unicamp</a>, currently supported by a <a href="https://bv.fapesp.br/en/auxilios/108313/periods-and-algebraicity/" target="_blank">FAPESP Young Investigator Grant</a>. I am a member of IMECC's <a href="https://geotop.ime.unicamp.br/" target="_blank">Geometry and Topology (GeoTop)</a> research group, and of the <a href="https://www.cbg.ime.unicamp.br/en/cbg-homepage-english/" target="_blank">Brazilian Center for Geometry (CBG)</a>. 
+Associate professor at <a href="https://www.ime.unicamp.br/en" target="_blank">IMECC--Unicamp</a>, currently supported by a <a href="https://bv.fapesp.br/en/auxilios/108313/periods-and-algebraicity/" target="_blank">FAPESP Young Investigator Grant</a>. I am a member of IMECC's <a href="https://geotop.ime.unicamp.br/" target="_blank">Geometry and Topology (GeoTop)</a> research group, and of the <a href="https://www.cbg.ime.unicamp.br/en/cbg-homepage-english/" target="_blank">Brazilian Center for Geometry (CBG)</a>. 
 
 I work in the areas of Number Theory and Algebraic Geometry, mainly on questions involving periods of algebraic varieties and their differential equations, modular forms, transcendence, and algebraicity.
 
