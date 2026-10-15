@@ -52,7 +52,7 @@ header_pages:
   - teaching.md
   - writing.md
 #  - seminars.md
-#  - periods.md
+  - periods.md
 
 # Build settings
 theme: minima

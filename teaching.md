@@ -9,11 +9,13 @@ permalink: /teaching/
 You can find the undegraduate and graduate courses I'm currently teaching at Unicamp <a href="https://www.ime.unicamp.br/graduacao/disciplinas/turmas-horarios" target="_blank">here</a> and <a href="https://www.ime.unicamp.br/pos-graduacao/matematica/horario-disciplinas" target="_blank">here</a>.
 
 
-Teaching material from some past courses:
+Teaching material from some past (mini)courses:
 
-<!--- - [Diferenciais em anéis comutativos](/teaching/icmc/), Verão 2023, ICMC-USP, São Carlos.
+<!--- - [Diferenciais em anéis comutativos](/teaching/icmc/), Verão 2023, ICMC-USP, São Carlos.--->
 
-- [Introduction to Hodge Theory](https://nilsmatthes.github.io/Hodge21.html) (with Nils Matthes), Trinity term 2021, Oxford. --->
+- [Extensões abelianas de corpos quadráticos imaginários](/teaching/CM/), XXVIII Escola de Álgebra, 2026, ICMC-USP, São Carlos.
+
+- [Introduction to Hodge Theory](https://nilsmatthes.github.io/Hodge21.html) (with Nils Matthes), Trinity term 2021, Oxford. 
 
 - [A crash course on modular forms and cohomology](/teaching/crash-course/), 2020 LMS mini-course, Oxford.
 
