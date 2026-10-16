@@ -43,8 +43,9 @@ Events:
  - [Segunda Semana de Encontros Aritméticos (II SemEAr)](https://sites.google.com/ufg.br/iisemear/), IMECC–Unicamp, 24–27/02/2026. Supported by FAPESP (grant #2025/21023-6).
 
 
-Some talk videos or slides:
+Some talk videos or material:
 
+- T. J. Fonseca - [Extensões abelianas de corpos quadráticos imaginários.](../assets/documents/CM.pdf) Introductory minicourse at the Brazilian Algebra Meeting, 2026.
 - T. J. Fonseca - [A motivic approach to the Gross–Zagier conjecture.](../assets/documents/montpellier-2026.pdf) Séminaire AGATA, Université de Montpellier, 2026. 
 - T. J. Fonseca - [Elliptic KZB equations via the universal vector extension.](https://www.youtube.com/watch?v=uSBONXKU4Vw) Workshop ''Arithmetic geometry, cycles, Hodge theory, regulators, periods and heights'', INI Cambridge, 2022.
 - T. J. Fonseca - [From multiple polylogarithms to the universal vector extension of an elliptic curve.](https://www.youtube.com/watch?v=XFfjSHZGStU&list=PLArBKNfJxuulPcBimEDhzA6hu9792FzFn&index=18) Fields Number Theory Seminar, 2022.
