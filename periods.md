@@ -4,7 +4,7 @@ title: Periods and Algebraicity
 permalink: /periods/
 ---
 
-This is the webpage of the research project “Periods and Algebraicity” supported by the São Paulo Research Foundation (FAPESP) [Young Investigator Grant #2020/15804-1](https://bv.fapesp.br/en/auxilios/108313/periods-and-algebraicity/) (October 2021 – September 2026), hosted at IMECC–Unicamp.
+This is the webpage of the research project <i>Periods and Algebraicity</i> supported by the São Paulo Research Foundation (FAPESP) [Young Investigator Grant #2020/15804-1](https://bv.fapesp.br/en/auxilios/108313/periods-and-algebraicity/) (October 2021 – September 2026), hosted at IMECC–Unicamp.
 
 <h3 class="pub-section">Team</h3>
 
