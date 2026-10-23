@@ -1,0 +1,12 @@
+<ul class="profile-links">
+  {%- for link in site.profile_links -%}
+    {%- if link.url and link.url != "" -%}
+      {%- assign first_char = link.url | slice: 0 -%}
+      {%- if first_char == "/" -%}
+        <li><a href="{{ link.url | relative_url }}">{{ link.name | escape }}</a></li>
+      {%- else -%}
+        <li><a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.name | escape }}</a></li>
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+</ul>

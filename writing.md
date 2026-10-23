@@ -21,8 +21,8 @@ Some mathematical notes and slides, in English or Portuguese:
 - [Notes on the hyperelliptic curve $y^2 = 1 − x^5$](/assets/documents/hyperelliptic.pdf). Personal notes written on April 2018.
 - [Foliations in positive characteristic, I](/assets/documents/pclosed1.pdf). Notes for a talk given in June 2017 at Tatihou.
 - [Curvas integrais e independência algébrica](/assets/documents/independencia.pdf). Notes for two talks given in August 2015 at ICMC/USP.
-- [Heights, II](/assets/documents/heights2-ss.pdf). Notes for a talk given in January 2015 at Paris-Saclay.
-- [Heights, I](/assets/documents/heights-ss.pdf). Notes for a talk given in December 2014 at Paris-Saclay.
+- [Heights, II](/assets/documents/heights2_ss.pdf). Notes for a talk given in January 2015 at Paris-Saclay.
+- [Heights, I](/assets/documents/heights_ss.pdf). Notes for a talk given in December 2014 at Paris-Saclay.
 - [A matemática por trás do Google](/assets/documents/google.pdf). Slides for a talk given in August 2012 at USP.
 - [Como funciona a sua calculadora?](/assets/documents/cordic.pdf) Slides for a talk given in April 2011 at USP.
 

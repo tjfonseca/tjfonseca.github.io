@@ -4,10 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
-<details open>
+<p class="pub-note">Click on a title to show the abstract.</p>
+
+<h3 class="pub-section">Preprints</h3>
+
+<details>
 	<summary><b>Single-valued periods of meromorphic modular forms and a motivic interpretation of the Gross-Zagier conjecture</b> (with <a href="https://www.maths.ox.ac.uk/people/francis.brown" target="_blank">Francis Brown</a>). Preprint. [<a href="https://arxiv.org/abs/2508.04844" target="_blank">arXiv</a>] </summary>
 
-	<p align="justify"><br>
+	<p align="justify">
 	A well-known conjecture of Gross and Zagier states that the values of the higher automorphic Green's function at pairs of points with complex multiplication in the upper half-plane are proportional to the logarithm of an algebraic number. It was recently settled in the case of congruence subgroups of the form $\Gamma_0(N)$ by analytic methods. In this paper we provide a geometric and motivic interpretation of the general conjecture, and show that it is a consequence of a standard conjecture in the theory of motives. In addition, we define a new class of matrix-valued higher Green's functions for both odd and even weight modular forms, and show that they are single-valued periods of a motive constructed from a suitable moduli stack of elliptic curves with marked points. The motive has the structure of a biextension involving symmetric powers of the motives of elliptic curves. This suggests a very general extension of the Gross-Zagier conjecture relating values of matrix-valued higher Green's functions at points which do not necessarily have complex multiplication to special values of $L$-functions. In particular, our motivic interpretation of the Gross-Zagier log-algebraicity conjecture enables us to give a completely geometric proof in level 1 and weight 4 by showing that the motive of the moduli stack $\mathcal{M}_{1,3}$ of elliptic curves with 3 marked points is mixed Tate.
 	</p>
 	
@@ -19,15 +23,13 @@ permalink: /publications/
 
 <p></p>
 
-<details open>
-	<summary><b>Elliptic KZB connections via universal vector extensions</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). <a href="https://msp.org/ant/2025/19-7/p03.xhtml" target="_blank">Algebra and Number Theory, Vol. 19 (2025), No. 7, 1369–1425.</a> [<a href="https://arxiv.org/abs/2301.12560" target="_blank">arXiv</a>] </summary>
+<h3 class="pub-section">Published and accepted</h3>
 
-	<p><br>
-  	[<a href="https://www.newton.ac.uk/seminar/36062/" target="_blank">Talk</a>, <a href="../assets/documents/slides-kzb.pdf" target="_blank">slides</a>]
-  	</p>
+<details>
+	<summary><b>Elliptic KZB connections via universal vector extensions</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). <a href="https://msp.org/ant/2025/19-7/p03.xhtml" target="_blank">Algebra and Number Theory, Vol. 19 (2025), No. 7, 1369–1425.</a> [<a href="https://arxiv.org/abs/2301.12560" target="_blank">arXiv</a>] [<a href="https://www.newton.ac.uk/seminar/36062/" target="_blank">Talk</a>, <a href="../assets/documents/slides-kzb.pdf" target="_blank">slides</a>] </summary>
 
 	<p align="justify">
-    	 Using the formalism of bar complexes and their relative versions,we give a new, purely algebraic, construction of the so-called universal elliptic KZB connection in arbitrary level. We compute explicit analytic formulae, and we compare our results with previous approaches to elliptic KZB equations and multiple elliptic polylogarithms in the literature.
+    	 Using the formalism of bar complexes and their relative versions, we give a new, purely algebraic, construction of the so-called universal elliptic KZB connection in arbitrary level. We compute explicit analytic formulae, and we compare our results with previous approaches to elliptic KZB equations and multiple elliptic polylogarithms in the literature.
 	</p>
 	
 	 <p align="justify">
@@ -38,10 +40,10 @@ permalink: /publications/
 
 <p></p>
 
-<details open>
+<details>
 	<summary><b>A note on the Gauss-Manin connection for abelian schemes</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). <a href="https://ems.press/journals/rsmup/articles/14297620" target="_blank">Rend. Sem. Mat. Univ. Padova 152 (2024), pp. 117–131.</a> [<a href="https://arxiv.org/abs/2201.06402" target="_blank">arXiv</a>] </summary>
   
-  <p align="justify"><br>
+  <p align="justify">
 	 We study differential forms on the universal vector extension $A^{\natural}$ of an abelian scheme $A$ in characteristic zero, and derive a new construction of the D-group scheme structure on $A^{\natural}$. This gives, in particular, a rather simple description of the Gauss-Manin connection on the de Rham cohomology of $A$ in terms of global algebraic differential forms on $A^{\natural}$. The key ingredient is the computation of the coherent cohomology of $A^{\natural}$, due to Coleman and Laumon.
 	</p>
 </details>
@@ -49,22 +51,18 @@ permalink: /publications/
 <p></p>
 
 
-<details open>
+<details>
 	<summary><b>Towards algebraic iterated integrals for elliptic curves via the universal vectorial extension</b> (with <a href="https://nilsmatthes.github.io/" target="_blank">Nils Matthes</a>). <a href="https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/261373" target="_blank">RIMS Kôkyurôku, No. 2160 (2020), 114-125</a>. [<a href="https://arxiv.org/abs/2009.10433" target="_blank">arXiv</a>] </summary>
   
-  <p align="justify"><br>
+  <p align="justify">
 	For an elliptic curve $E$ defined over a field $k\subset \mathbb{C}$, we study iterated path integrals of logarithmic differential forms on $E^{\dagger}$, the universal vectorial extension of $E$. These are generalizations of the classical periods and quasi-periods of $E$, and are closely related to multiple elliptic polylogarithms and elliptic multiple zeta values. Moreover, if $k$ is a finite extension of $\mathbb{Q}$, then these iterated integrals along paths between $k$-rational points are periods in the sense of Kontsevich-Zagier. 
 	</p>
 </details>
 
 <p></p>
 
-<details open>
-	<summary><b>On coefficients of Poincaré series and single-valued periods of modular forms.</b> <a href="https://link.springer.com/article/10.1007/s40687-020-00232-5" target="_blank">Res Math Sci 7, 33 (2020)</a>. [<a href="https://arxiv.org/abs/1912.02277" target="_blank">arXiv</a>] </summary>
-  
-  <p><br>
-  [<a href="https://www.youtube.com/watch?v=M7YyhTXdjd0&t=2s" target="_blank">Talk</a>, <a href="../assets/documents/slides-poincare.pdf" target="_blank">slides</a>]
-  </p>
+<details>
+	<summary><b>On coefficients of Poincaré series and single-valued periods of modular forms.</b> <a href="https://link.springer.com/article/10.1007/s40687-020-00232-5" target="_blank">Res Math Sci 7, 33 (2020)</a>. [<a href="https://arxiv.org/abs/1912.02277" target="_blank">arXiv</a>] [<a href="https://www.youtube.com/watch?v=M7YyhTXdjd0&t=2s" target="_blank">Talk</a>, <a href="../assets/documents/slides-poincare.pdf" target="_blank">slides</a>] </summary>
   
   <p align="justify">
 	We prove that the field generated by the Fourier coefficients of weakly holomorphic Poincaré series of a given level $\Gamma_0(N)$ and weight $k\ge 2$ coincides with the field generated by the single-valued periods of a certain motive attached to $\Gamma_0(N)$. This clarifies the arithmetic nature of such Fourier coefficients and generalises previous formulas of Brown and Acres-Broadhurst giving explicit series expansions for the single-valued periods of some modular forms. Our proof is based on Bringmann-Ono's construction of harmonic lifts of Poincaré series.
@@ -73,23 +71,18 @@ permalink: /publications/
 
 <p></p>
 
-<details open>
+<details>
 	<summary><b>A geometric introduction to transcendence questions on values of modular forms.</b> Appendix of <a href="http://w3.impa.br/~hossein/" target="_blank">H. Movasati</a>, <a href="https://www.worldscientific.com/worldscibooks/10.1142/12325#t=aboutBook" target="_blank"><em>Modular and Automorphic Forms & beyond</em>, Monographs in Number Theory: Volume 9, World Scientific (2021)</a>. [<a href="https://arxiv.org/abs/2011.14401" target="_blank">arXiv</a>] </summary>
   
-  <p align="justify"><br>
+  <p align="justify">
 	 We survey some key developments in the theory of transcendental numbers, paying special attention to Nesterenko's theorem on values of Eisenstein series and emphasizing its underlying geometric aspects. We finish with a brief discussion on periods and related open problems.
 	</p>
 </details>
 
 <p></p>
 
-<details open>
-	<summary><b>Higher Ramanujan equations and periods of abelian varieties.</b> <a href="http://www.ams.org/books/memo/1391/" target="_blank">Mem. Amer. Math. Soc. 281 (2023), no. 1391</a>. [<a href="https://arxiv.org/abs/1807.11044" target="_blank">arXiv</a>] </summary>
-  
-  
-	<p><br>
-	[<a href="https://www.youtube.com/watch?v=fa07Sned31c&t=3s" target="_blank">Talk 1</a>, <a href="../assets/documents/slides-ramanujan1.pdf" target="_blank">slides</a>]  [<a href="https://www.youtube.com/watch?v=foRiR7j17wA" target="_blank">Talk 2</a>, <a href="../assets/documents/slides-ramanujan2.pdf" target="_blank">slides</a>]
-	</p>
+<details>
+	<summary><b>Higher Ramanujan equations and periods of abelian varieties.</b> <a href="http://www.ams.org/books/memo/1391/" target="_blank">Mem. Amer. Math. Soc. 281 (2023), no. 1391</a>. [<a href="https://arxiv.org/abs/1807.11044" target="_blank">arXiv</a>] [<a href="https://www.youtube.com/watch?v=fa07Sned31c&t=3s" target="_blank">Talk 1</a>, <a href="../assets/documents/slides-ramanujan1.pdf" target="_blank">slides</a>]  [<a href="https://www.youtube.com/watch?v=foRiR7j17wA" target="_blank">Talk 2</a>, <a href="../assets/documents/slides-ramanujan2.pdf" target="_blank">slides</a>] </summary>
   
   <p align="justify">
 	We describe higher dimensional generalizations of Ramanujan's classical differential relations satisfied by the Eisenstein series $E_2$, $E_4$, $E_6$. Such "higher Ramanujan equations" are given geometrically in terms of vector fields living on certain moduli stacks classifying abelian schemes equipped with suitable frames of their first de Rham cohomology. These vector fields are canonically constructed by means of the Gauss-Manin connection and the Kodaira-Spencer isomorphism. Using Mumford's theory of degenerating families of abelian varieties, we construct remarkable solutions of these differential equations generalizing ($E_2,E_4,E_6$), which are also shown to be defined over $\mathbb{Z}$.
@@ -102,28 +95,26 @@ This geometric framework taking account of integrality issues is mainly motivate
   
 <p></p>
   
-<details open>
+<details>
 	<summary><b>Algebraic independence for values of integral curves.</b> <a href="https://msp.org/ant/2019/13-3/p03.xhtml" target="_blank">Algebra and Number Theory, Vol. 13 (2019), No. 3, 643-694.</a> [<a href="https://arxiv.org/abs/1710.00563" target="_blank">arXiv</a>] </summary>
   
-  <p align="justify"><br>
+  <p align="justify">
 	We prove a transcendence theorem concerning values of holomorphic maps from a disk to a quasi-projective variety over $\overline{\mathbb{Q}}$ that are integral curves of some algebraic vector field (defined over $\overline{\mathbb{Q}}$). These maps are required to satisfy some integrality property, besides a growth condition and a strong form of Zariski-density that are natural for integral curves of algebraic vector fields. This result generalizes a theorem of Nesterenko concerning algebraic independence of values of the Eisenstein series $E_2$, $E_4$, $E_6$. The main technical improvement in our approach is the replacement of a rather restrictive hypothesis of polynomial growth on Taylor coefficients by a geometric notion of moderate growth formulated in terms of Value Distribution Theory.
 	</p>
 </details>
 
 <p></p>
 
-<details open>
-	<summary><b>Courbes intégrales : transcendance et géométrie.</b> PhD thesis, Université Paris-Saclay (December 2017). [<a href="https://tel.archives-ouvertes.fr/tel-01685449" target="_blank">HAL</a>] </summary>
-  
-  <p><br>
-  [<a href="../assets/documents/slides-soutenance.pdf" target="_blank">Defense slides</a>]
-  </p>
+<h3 class="pub-section">Thesis</h3>
+
+<details>
+	<summary><b>Courbes intégrales : transcendance et géométrie.</b> PhD thesis, Université Paris-Saclay (December 2017). [<a href="https://tel.archives-ouvertes.fr/tel-01685449" target="_blank">HAL</a>] [<a href="../assets/documents/slides-soutenance.pdf" target="_blank">Defense slides</a>] </summary>
   
   <p align="justify">
 	This thesis is devoted to the study of some questions motivated by Nesterenko's theorem on the algebraic independence of values of Eisenstein series $E_2$, $E_4$, $E_6$. It is divided in two parts. 
 	</p>
 	<p align="justify">
-	In the first part, comprising the first two chapiters, we generalize the algebraic differential equations satisfied by Eisenstein series that lie in the heart of Nesterenko's method, the Ramanujan equations. These generalizations, called 'higher Ramanujan equations', are obtained geometrically from vector fields naturally defined on certain moduli spaces of abelian varieties. In order to justify the interest of the higher Ramanujan equations in Transcendence Theory, we also show that values of a remarkable particular solution of these equations are related to 'periods' of abelian varieties.
+	In the first part, comprising the first two chapters, we generalize the algebraic differential equations satisfied by Eisenstein series that lie in the heart of Nesterenko's method, the Ramanujan equations. These generalizations, called 'higher Ramanujan equations', are obtained geometrically from vector fields naturally defined on certain moduli spaces of abelian varieties. In order to justify the interest of the higher Ramanujan equations in Transcendence Theory, we also show that values of a remarkable particular solution of these equations are related to 'periods' of abelian varieties.
 	</p>
 	<p align="justify">
 	In the second part (third chapter), we study Nesterenko's method per se. We establish a geometric statement, containing the theorem of Nesterenko, on the transcendence of values of holomorphic maps from a disk to a quasi-projective variety over $\overline{\mathbb{Q}}$ defined as integral curves of some vector field. These maps are required to satisfy some integrality property, besides a growth condition and a strong form of Zariski-density that are natural for integral curves of algebraic vector fields. 

@@ -9,13 +9,32 @@ layout: home
 ---
 
 
-Associate professor at <a href="https://www.ime.unicamp.br/en" target="_blank">IMECC--Unicamp</a>,  member of IMECC's <a href="https://geotop.ime.unicamp.br/" target="_blank">Geometry and Topology (GeoTop)</a> research group, and of the <a href="https://www.cbg.ime.unicamp.br/en/cbg-homepage-english/" target="_blank">Brazilian Center for Geometry (CBG)</a>.
+<div class="profile">
 
-I work in the areas of Number Theory and Algebraic Geometry, mainly on questions involving periods of algebraic varieties and their differential equations, modular forms, transcendence, and algebraicity.
+<img class="profile-photo" src="{{ '/assets/pictures/headshot.jpg' | relative_url }}" alt="Photo of Tiago J. Fonseca" width="180" height="240">
 
-I did my PhD at the <a href="https://www.imo.universite-paris-saclay.fr/fr/" target="_blank">LMO - Université Paris-Saclay</a>, under the supervision of <a href="https://www.imo.universite-paris-saclay.fr/~jean-benoit.bost/Accueil.html" target="_blank">Jean-Benoît Bost</a>, and I was a postdoc at the <a href="https://www.mpim-bonn.mpg.de/" target="_blank">MPIM - Bonn</a> and at the <a href="https://www.maths.ox.ac.uk/" target="_blank">MI - University of Oxford</a>, working with <a href="https://www.maths.ox.ac.uk/people/francis.brown" target="_blank">Francis Brown</a>.
+<div class="profile-text">
 
-A recent <a href="assets/pictures/dieppe.jpg" target="_blank">photo</a>. A less recent <a href="assets/pictures/diploma.png" target="_blank">photo</a>. My <a href="http://lattes.cnpq.br/6649828487224147" target="_blank">Lattes CV</a> (in Portuguese).
+<p>Associate professor at <a href="https://www.ime.unicamp.br/en" target="_blank">IMECC–Unicamp</a>, member of IMECC's <a href="https://geotop.ime.unicamp.br/" target="_blank">Geometry and Topology (GeoTop)</a> research group, and of the <a href="https://www.cbg.ime.unicamp.br/en/cbg-homepage-english/" target="_blank">Brazilian Center for Geometry (CBG)</a>.</p>
+
+<p>I work in the areas of Number Theory and Algebraic Geometry, mainly on questions involving periods of algebraic varieties and their differential equations, modular forms, transcendence, and algebraicity.</p>
+
+<p>I did my PhD at the <a href="https://www.imo.universite-paris-saclay.fr/fr/" target="_blank">LMO - Université Paris-Saclay</a>, under the supervision of <a href="https://www.imo.universite-paris-saclay.fr/~jean-benoit.bost/Accueil.html" target="_blank">Jean-Benoît Bost</a>, and I was a postdoc at the <a href="https://www.mpim-bonn.mpg.de/" target="_blank">MPIM - Bonn</a> and at the <a href="https://www.maths.ox.ac.uk/" target="_blank">MI - University of Oxford</a>, working with <a href="https://www.maths.ox.ac.uk/people/francis.brown" target="_blank">Francis Brown</a>.</p>
+
+{% include profile-links.html %}
+
+</div>
+
+</div>
+
+<!--
+<h4>News</h4>
+
+<ul>
+  <li>Hilary Term 2027: Visiting Scholar at Corpus Christi College, Oxford.</li>
+  <li>February 2027: second CBG workshop at IMECC–Unicamp.</li>
+</ul>
+-->
 
 <!--
 <h4>
@@ -47,6 +66,4 @@ Departamento de matemática <br>
 Rua Sérgio Buarque de Holanda, 651, Cidade Universitária <br>
 13083-859 Campinas-SP, Brazil <br>
 
-<h5>
-	Last update: 15/10/2026
-</h5>
+<p class="last-update">Last update: 23 October 2026</p>
