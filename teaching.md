@@ -11,9 +11,9 @@ You can find the undegraduate and graduate courses I'm currently teaching at Uni
 
 Teaching material from some past (mini)courses:
 
-<!--- - [Diferenciais em anéis comutativos](/teaching/icmc/), Verão 2023, ICMC-USP, São Carlos.--->
-
 - [Extensões abelianas de corpos quadráticos imaginários](/teaching/CM/), XXVIII Escola de Álgebra, 2026, ICMC-USP, São Carlos.
+
+- [Diferenciais em anéis comutativos](/teaching/diferenciais/), Verão 2023, ICMC-USP, São Carlos.
 
 - [Introduction to Hodge Theory](https://nilsmatthes.github.io/Hodge21.html) (with Nils Matthes), Trinity term 2021, Oxford. 
 
