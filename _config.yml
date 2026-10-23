@@ -2,8 +2,9 @@ title: Tiago J. Fonseca
 author:
   name: Tiago Jardim da Fonseca
   #email: 
-description:  # > this means to ignore newlines until "show_excerpts:"
-  IMECC-Unicamp
+description: >-
+  Associate Professor of Mathematics at IMECC–Unicamp, working on periods,
+  modular forms, transcendence and algebraicity.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -54,11 +55,33 @@ header_pages:
 #  - seminars.md
   - periods.md
 
+# Image used in link previews (Google, WhatsApp, Slack, e-mail clients...)
+image: /assets/pictures/headshot.jpg
+twitter:
+  card: summary
+
+# Profile links shown on the homepage and in the footer.
+# Entries without a url are hidden automatically: fill in the ones you want.
+profile_links:
+  - name: CV (English)
+    url:              # e.g. /assets/documents/cv.pdf
+  - name: Lattes (PT)
+    url: http://lattes.cnpq.br/6649828487224147
+  - name: arXiv
+    url: https://arxiv.org/search/?searchtype=author&query=Fonseca%2C+Tiago+J
+  - name: Google Scholar
+    url:              # e.g. https://scholar.google.com/citations?user=XXXXXXX
+  - name: ORCID
+    url:              # e.g. https://orcid.org/0000-0000-0000-0000
+  - name: zbMATH
+    url:              # e.g. https://zbmath.org/authors/fonseca.tiago-j
+
 # Build settings
 theme: minima
 
-# Google Analytics
-google_analytics: UA-191465263-1
+# Google Analytics: the old "UA-" property was retired by Google in 2023 and
+# no longer records anything. Add a GA4 id ("G-...") here to re-enable it.
+# google_analytics:
 
 plugins:
  - jekyll-feed

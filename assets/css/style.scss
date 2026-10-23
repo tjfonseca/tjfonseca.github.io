@@ -2,6 +2,20 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+// ---------- Typography and colours (set before the theme is imported) ----------
+
+$base-font-family: "Source Serif 4", "Source Serif Pro", Georgia, "Times New Roman", serif;
+$base-font-size:   17px;
+$base-line-height: 1.6;
+
+$bordeaux:           #7b1e34;
+$bordeaux-dark:      #4f1020;
+$link-base-color:    $bordeaux;
+$link-visited-color: $bordeaux;
+$link-hover-color:   $bordeaux-dark;
+$text-color:         #1a1a1a;
+$site-title-color:   #1a1a1a;
+
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
@@ -16,7 +30,164 @@
 
 
 #mail {
-    font-size: 16px;
+    font-size: 15px;
     font-family: "Lucida Console", Monaco, monospace;
 }
 
+
+/* ---------- Homepage profile ---------- */
+
+.profile {
+  display: flex;
+  gap: 28px;
+  align-items: flex-start;
+  margin-bottom: 24px;
+}
+
+.profile-photo {
+  flex: 0 0 auto;
+  width: 180px;
+  height: auto;
+  border-radius: 6px;
+  margin-top: 4px;
+}
+
+.profile-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.profile-links {
+  list-style: none;
+  margin: 4px 0 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+
+  li {
+    margin: 0;
+  }
+
+  a {
+    display: inline-block;
+    padding: 3px 11px;
+    border: 1px solid rgba(123, 30, 52, 0.35);
+    border-radius: 999px;
+    font-size: 15px;
+    text-decoration: none;
+  }
+
+  a:hover {
+    border-color: currentColor;
+    text-decoration: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .profile {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .profile-photo {
+    width: 150px;
+  }
+}
+
+/* ---------- Publications ---------- */
+
+.pub-note {
+  color: #6f6f6f;
+  font-size: 14px;
+}
+
+.pub-section {
+  margin-top: 32px;
+  margin-bottom: 12px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+details {
+  margin-bottom: 4px;
+
+  summary {
+    cursor: pointer;
+    line-height: 1.55;
+  }
+
+  p:first-of-type {
+    margin-top: 10px;
+  }
+}
+
+/* ---------- Footer ---------- */
+
+.footer-simple {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 8px 24px;
+  font-size: 14px;
+  color: #6f6f6f;
+}
+
+.last-update {
+  margin-top: 24px;
+  font-size: 14px;
+  color: #6f6f6f;
+}
+
+/* ---------- Typography and link details ---------- */
+
+a {
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.post-content a:hover,
+.footer-simple a:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.site-title,
+.site-title:visited {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.site-nav .page-link {
+  color: #3a3a3a;
+}
+
+.site-nav .page-link:hover {
+  color: $bordeaux;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 600;
+  letter-spacing: -0.005em;
+}
+
+.post-title {
+  letter-spacing: -0.01em;
+}
+
+.profile-links a:hover {
+  background: rgba(123, 30, 52, 0.06);
+}
+
+.pub-section {
+  border-bottom-color: rgba(123, 30, 52, 0.25);
+}
+
+details summary::marker {
+  color: $bordeaux;
+}
+
+.site-header {
+  border-top-color: $bordeaux;
+}
