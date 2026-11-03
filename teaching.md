@@ -13,6 +13,8 @@ Teaching material from some past (mini)courses:
 
 - [Extensões abelianas de corpos quadráticos imaginários](/teaching/CM/), XXVIII Escola de Álgebra, 2026, ICMC-USP, São Carlos.
 
+- [Análise no R<sup>n</sup>](/teaching/Rn/) (MA720/MM720), 1º semestre de 2025, IMECC-Unicamp, Campinas.
+
 - [Diferenciais em anéis comutativos](/teaching/diferenciais/), Verão 2023, ICMC-USP, São Carlos.
 
 - [Introduction to Hodge Theory](https://nilsmatthes.github.io/Hodge21.html) (with Nils Matthes), Trinity term 2021, Oxford. 
