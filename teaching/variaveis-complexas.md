@@ -24,3 +24,4 @@ Números complexos. Funções analíticas. Séries. Integração complexa. Teore
 
 - E. M. Stein e R. Shakarchi. *Complex Analysis*. Princeton Lectures in Analysis II. Princeton University Press, Princeton, 2003.
 - E. T. Whittaker e G. N. Watson. *A Course of Modern Analysis*, 5ª ed., editada por V. H. Moll. Cambridge University Press, Cambridge, 2021.
+- W. Rudin. *Real and Complex Analysis*, 3ª ed. McGraw-Hill, Nova York, 1987. Veja em especial o Prólogo, sobre a função exponencial.
