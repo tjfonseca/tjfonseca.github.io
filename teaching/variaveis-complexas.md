@@ -12,6 +12,10 @@ Disciplina MM413 – Variáveis Complexas, oferecida no IMECC–Unicamp no prime
 Números complexos. Funções analíticas. Séries. Integração complexa. Teorema de Cauchy. Teorema de Liouville. Princípio do módulo máximo. Resíduos. Desenvolvimento em séries de Taylor e Laurent. Funções harmônicas. Fórmula de Poisson. Teorema de Runge. Teorema da aplicação de Riemann.
 </p>
 
+<p align="justify">
+Vários tópicos abordados no curso vão além dessa ementa, em especial os ligados às funções especiais: produtos infinitos e o produto de Euler, a função $\Gamma$, a função $\zeta$ de Riemann (sua continuação analítica, sua equação funcional e seus zeros), os números de Bernoulli e os valores $\zeta(2k)$, e o teorema dos números primos com a ideia da sua demonstração. Esses tópicos foram incluídos para ilustrar a teoria geral com exemplos centrais da matemática.
+</p>
+
 <h2>Notas de aula</h2>
 
 [Variáveis Complexas.](../../assets/documents/variaveis-complexas.pdf) Notas de aula, com as duas provas e seus gabaritos e, em anexo, notas curtas sobre uma abordagem geométrica (via formas diferenciais e o teorema de Stokes) da fórmula integral de Cauchy e do teorema fundamental da álgebra.
