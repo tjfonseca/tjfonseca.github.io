@@ -18,6 +18,7 @@ Some mathematical notes and slides, in English or Portuguese:
 - [Le groupe fondamental d'une courbe elliptique moins un point, II](/assets/documents/punctured2.pdf). Notes for a talk given on May 2020 at Oxford.
 - [Le groupe fondamental d'une courbe elliptique moins un point, I](/assets/documents/punctured.pdf). Notes for a talk given on May 2020 at Oxford.
 - [Coefficients of Poincaré series as periods](/assets/documents/poincare.pdf). Notes for a talk given in October 2019 at Oxford.
+- [Dwork's proof of the rationality of the zeta function](/assets/documents/dwork.pdf). Notes for a talk given in February 2019 at Oxford.
 - [Notes on the hyperelliptic curve $y^2 = 1 − x^5$](/assets/documents/hyperelliptic.pdf). Personal notes written on April 2018.
 - [Foliations in positive characteristic, I](/assets/documents/pclosed1.pdf). Notes for a talk given in June 2017 at Tatihou.
 - [Curvas integrais e independência algébrica](/assets/documents/independencia.pdf). Notes for two talks given in August 2015 at ICMC/USP.
