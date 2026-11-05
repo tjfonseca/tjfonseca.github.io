@@ -11,9 +11,9 @@ You can find the undegraduate and graduate courses I'm currently teaching at Uni
 
 Teaching material from some past (mini)courses:
 
-- [Variáveis Complexas](/teaching/variaveis-complexas/) (MM413), 1º semestre de 2026, IMECC-Unicamp, Campinas.
-
 - [Extensões abelianas de corpos quadráticos imaginários](/teaching/CM/), XXVIII Escola de Álgebra, 2026, ICMC-USP, São Carlos.
+
+- [Variáveis Complexas](/teaching/variaveis-complexas/) (MM413), 1º semestre de 2026, IMECC-Unicamp, Campinas.
 
 - [Análise no R<sup>n</sup>](/teaching/Rn/) (MA720/MM720), 1º semestre de 2025, IMECC-Unicamp, Campinas.
 
