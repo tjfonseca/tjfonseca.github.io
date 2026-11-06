@@ -17,6 +17,8 @@ Teaching material from some past (mini)courses:
 
 - [Análise no R<sup>n</sup>](/teaching/Rn/) (MA720/MM720), 1º semestre de 2025, IMECC-Unicamp, Campinas.
 
+- [Teoria Aritmética dos Números](/teaching/aritmetica/) (MA553), 2º semestre de 2024, IMECC-Unicamp, Campinas.
+
 - [Diferenciais em anéis comutativos](/teaching/diferenciais/), Verão 2023, ICMC-USP, São Carlos.
 
 - [Introduction to Hodge Theory](https://nilsmatthes.github.io/Hodge21.html) (with Nils Matthes), Trinity term 2021, Oxford. 
