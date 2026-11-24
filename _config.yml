@@ -66,7 +66,7 @@ profile_links:
   - name: CV (English)
     url:              # e.g. /assets/documents/cv.pdf
   - name: Lattes (PT)
-    url: http://lattes.cnpq.br/6649828487224147
+    url: https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4461534P0
   - name: arXiv
     url: https://arxiv.org/search/?searchtype=author&query=Fonseca%2C+Tiago+J
   - name: Google Scholar
